@@ -26,7 +26,7 @@ There's lots of fancy ways to do it, but `NFC Tools` is my favorite to program t
 - [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749)
 
 
-### Places this tag was dropped...
+### Places these tags were dropped...
 
 - [CodeMash 2024](https://codemash.org/)
 
