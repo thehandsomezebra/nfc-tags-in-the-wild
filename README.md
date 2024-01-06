@@ -1,10 +1,13 @@
 # Finders Keepers - You now own this tag
 
-Why did you scan a random nfc tag? I suppose I could lecture you on why that's a bad idea, but I'm not your mom. lol. Anyhow, finders keepers - this tag is yours now.
+Why did you scan a random nfc tag? I suppose I could lecture you on why that's a bad idea, but I'm not your mom.. 
+
+Anyhow, finders keepers - this tag is yours now.
+
 
 ![NFC tags on the printer](/prints.png)
 
-### Ideas for your new found tag
+### Ideas for your new tag, if you've never had one before...
 
 - Auto-connect to some wifi (because that password is just too hard to remember)
 - Share some media (you can link to a picture of a [cat](https://cdn2.thecatapi.com/images/vJB8rwfdX.jpg) )
