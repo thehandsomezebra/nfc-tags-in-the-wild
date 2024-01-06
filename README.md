@@ -2,7 +2,7 @@
 
 Why did you scan a random nfc tag? I suppose I could lecture you on why that's a bad idea, but I'm not your mom. lol. Anyhow, finders keepers - this tag is yours now.
 
-
+![NFC tags on the printer](/prints.png)
 
 ### Ideas for your new found tag
 
