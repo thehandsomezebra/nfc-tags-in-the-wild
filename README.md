@@ -1,6 +1,6 @@
 # Finders Keepers - You now own this tag
 
-Why did you scan a random nfc tag? I suppose I could lecture you on why that's a bad idea, but I'm not your mom.. 
+Why did you scan a random nfc tag? I suppose I could lecture you on why that's a sketchy idea, but I'm not your mom.. 
 
 Anyhow, finders keepers - this tag is yours now.
 
