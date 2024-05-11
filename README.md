@@ -29,6 +29,7 @@ There's lots of fancy ways to do it, but `NFC Tools` is my favorite to program t
 ### Places these tags were dropped...
 
 - [CodeMash 2024](https://codemash.org/)
+- [DefCon 2024](https://defcon.org/)
 
 ### How did I make this?
 
