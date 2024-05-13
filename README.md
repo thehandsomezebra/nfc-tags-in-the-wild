@@ -44,6 +44,9 @@ Model was created by GeekToyBox and you can find it [here](https://www.printable
 - [Mastodon](https://defcon.social/@handsomezebra)
 - [Blog that I rarely update](https://readthis.info/)
 - [LinkedIn](https://www.linkedin.com/in/stephanielage/)
+- [CashApp](https://cash.app/$handsomezebra)
+- [Venmo](https://venmo.com/u/handsomezebra)
+- [Ko-Fi](https://ko-fi.com/handsomezebra)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RQR0G235HD"></script>
