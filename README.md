@@ -5,6 +5,7 @@ Why did you scan a random nfc tag? I suppose I could lecture you on why that's a
 Anyhow, finders keepers - this tag is yours now.
 
 
+![pile of printed nfc tags](/tags.jpeg)
 ![NFC tags on the printer](/prints.png)
 
 ### Ideas for your new tag, if you've never had one before...
